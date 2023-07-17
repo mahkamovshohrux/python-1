@@ -12,3 +12,4 @@ s4 = []
 for i in s3:
     s4.append(int(i))
 print(s4)
+print()

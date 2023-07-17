@@ -6,3 +6,4 @@ else:
     n = str(n)
     n = n[1::]
     print(-int(n[::-1]))
+    print()

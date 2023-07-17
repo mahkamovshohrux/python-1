@@ -8,3 +8,4 @@ for i in range(len(n)-1):
                 if l not in x:
                     x.append(l)
 print(x)
+print()

@@ -7,3 +7,4 @@ for i in range(len(n)):
             m = n[i:j+1]
 
 print(m)
+print(m)

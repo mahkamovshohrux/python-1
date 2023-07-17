@@ -13,3 +13,4 @@ def f(n):
     n = int(n)
     return n//2 + n % 2
 print(sum(map(f, input().split())))
+print()

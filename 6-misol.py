@@ -6,3 +6,4 @@ for i in n:
         if i[j] != "":
             m += i[j]
 print(m)
+print()

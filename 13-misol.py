@@ -12,3 +12,4 @@ while i < len(n):
         j += a[n[i]]
         i += 1
 print(j)
+print(j)

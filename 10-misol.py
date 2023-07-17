@@ -13,3 +13,4 @@ else:
             print(False)
             break
     print(len(s) == len(m))
+print()
